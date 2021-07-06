@@ -1,7 +1,6 @@
 [
   {
     "package": "eegUtils",
-    "url": "https://github.com/craddm/eegUtils",
-    "branch" : "master"
+    "url": "https://github.com/craddm/eegUtils"
   }
 ]
